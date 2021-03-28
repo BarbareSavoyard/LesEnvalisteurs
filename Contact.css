@@ -1,0 +1,22 @@
+.Ensemble{
+	margin-top:60%;
+	height:200px;
+	background-color: black;
+}
+.Ensemble h1{
+
+	width:200px;
+	height:50px;
+	
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+
+	background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+.contact{
+	position:absolute;
+	padding-top:1000px	;
+
+}
