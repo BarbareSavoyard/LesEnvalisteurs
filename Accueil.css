@@ -1,0 +1,285 @@
+html{
+	opacity:100%;
+}
+body{
+	background-image:url("bg2.png");
+	margin:0px;
+	background-size: cover;
+
+}
+
+/*  Partie du haut (Menu, logos, dessins)                                     */
+
+#HG{
+	position:fixed;
+	width:10%;
+	left:0px;
+	top:0px;
+	opacity:60%;
+}
+
+#HD{
+	position:fixed;
+	width:9%;
+	right:0px;
+	top:0px;
+	opacity:60%;
+}
+
+#hautPage{
+	height:40%;
+	width:100%;
+}
+
+#login{
+	width:3%;
+	position:absolute;
+	margin-left:20%;
+}
+#insta{
+	width:3%;
+	position:relative;
+	margin-left:71%;
+}
+
+#fb{
+	width:3%;
+
+	position:relative;
+	margin-left:2%;
+}
+
+#Logo{
+	width:11%;
+	position:absolute;
+	left:44%;
+	top:0.2%;
+	z-index:999;
+}
+
+
+#Presentation{
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:5%;
+}
+
+#Presentation p{
+    width:auto;
+    text-align:left;
+    font: normal bold 1.5em Viking-Normal, Verdana,            Helvetica; 
+}
+
+#menu{
+  width: 60%; 
+  margin:auto;
+  height: 0.1px; 
+  z-index: 2;
+  position: relative; 
+  background-color: #C3C3C3;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+ul {
+  height: auto;
+  width:auto;
+  margin:0;
+  margin-top:3px;
+  position: relative; 
+  padding-left:1.5%;
+ }
+
+ul li  {
+  height: 2em;
+  width: 12.9%; 
+  padding-top:0.9em;
+  margin: auto;
+  float: left;  
+  text-align: center; 
+  list-style: none;  
+  font: normal bold 16px/1em Arial, Verdana,Helvetica;  
+ }
+
+.saut{
+	margin-left:20%;
+}
+
+ul li a {
+  padding:0;
+  text-decoration: none; 
+  color: black; 
+  display: block;  
+  border-radius:1px;
+  font-size:100%;
+ }
+
+ul li:hover {
+  background-color:#896B37;
+  border-style: solid;
+  border-width: 0.1px;
+  border-color:#000000 #000000 #000000 #000000;
+} 
+
+ul li ul{
+  display: none;
+  height: auto;									
+  margin-top: 15px; 
+  padding: 0; 
+}
+
+li:hover ul{
+  display: block;
+}
+
+li ul li{
+  background-color: #896B37;
+  width:100%;
+  position:relative;
+  border-left: 1px solid #444444; 
+  border-right: 1px solid #444444; 
+  border-top: 1px solid #000000; 
+  border-bottom: 1px solid #444444; 
+}
+
+li ul li a{
+  padding:0;
+  text-decoration: none; 
+  color: black; 
+  display: block;  
+}
+
+
+#corps{
+	height:200%;
+	width:60%;
+	margin:auto;
+	position:relative;
+	margin-left:20%;
+	margin-right:20%;
+    margin-top:10%;
+    margin-bottom:0%;
+}
+#photosclan{
+	height:900px;
+	padding-top:25px;
+	position:relative;
+}
+
+#imgrouge{
+	width:20%;
+}
+
+#clanRouge{
+	width:45%;
+	margin-left:8%;
+	float:left;
+	margin-top:19px;
+}
+
+h2{
+	text-align: center;
+	font-size: 2em;
+}
+
+#clanBleu
+{
+	width:45%;
+	float:right;
+	margin-right:0%;
+}
+
+#img{
+	width:80%;
+	margin-left:10%;
+}
+
+h1{
+	text-align:center;
+	font: normal bold 30px/1em Viking-Normal,Arial, Verdana, Helvetica;  
+}
+
+.trait{
+	background-color: #000;
+	height:2px;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:200px;
+}
+.trait2{
+	background-color: #000;
+	height:4px;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5px;
+}
+
+.trait3{
+	background-color: #000;
+	height:50%;
+	width:4px;
+	position:absolute;
+	margin-left:50%;
+	margin-right:50%;
+	margin-bottom:5px;
+}
+
+
+
+#traitgauche{
+	position:absolute;
+	background-color: black;
+	border-radius: 3px;
+	border-style: solid;
+	top:82%;
+	width:10%;
+	height:3px;
+	z-index:1;
+}
+
+#traitdroit{
+	position:absolute;
+	background-color: black;
+	border-radius: 3px;
+	border-style: solid;
+	top:82%;
+	width:10%;
+	height:3px;
+	right:0px;
+	z-index:1;
+}
+
+
+#Edt{
+	width:100%;
+	margin-top:40px;
+	margin-bottom:40px	;
+}
+
+#BasDePage{
+	position: relative;
+	margin-top:100px;
+	width:100%;
+
+}
+
+#video {
+	position: relative;
+	height: 25vw;
+	width: 50vw;
+	display: block;
+	margin :auto;
+
+}
+
+#principal {
+	background-image: url("Epees.png");
+	margin : auto;
+
+	background-size: cover;
+	height: 40vw;
+	width: 80vw;
+}
+
