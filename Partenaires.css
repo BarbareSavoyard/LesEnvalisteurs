@@ -25,6 +25,12 @@ body{
   opacity:60%;
 }
 
+#Discord{
+  width:3%;
+  margin-left:2%;
+  position:relative;
+}
+
 #hautPage{
   height:40%;
   width:100%;
@@ -38,7 +44,7 @@ body{
 #insta{
   width:3%;
   position:relative;
-  margin-left:71%;
+  margin-left:66%;
 }
 
 #fb{

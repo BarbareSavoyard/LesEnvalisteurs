@@ -39,12 +39,11 @@ body{
 #insta{
 	width:3%;
 	position:relative;
-	margin-left:71%;
+	margin-left:66%;
 }
 
 #fb{
 	width:3%;
-
 	position:relative;
 	margin-left:2%;
 }
@@ -217,7 +216,11 @@ h1{
 	margin-bottom:5px;
 }
 
-
+#Discord{
+	width:3%;
+	margin-left:2%;
+	position:relative;
+}
 
 #traitgauche{
 	position:absolute;

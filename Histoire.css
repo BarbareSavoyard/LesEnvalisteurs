@@ -4,6 +4,7 @@ html{
 body{
 	background-image:url("bg2.png");
 	margin:0px;
+	background-size: cover;
 }
 
 /*  Partie du haut (Menu, logos, dessins)                                     */
@@ -37,7 +38,7 @@ body{
 #insta{
 	width:3%;
 	position:relative;
-	margin-left:71%;
+	margin-left:66%;
 }
 
 #fb{
@@ -87,6 +88,13 @@ ul {
   position: relative; 
   padding-left:1.5%;
  }
+
+#Discord{
+	width:3%;
+	margin-left:2%;
+	position:relative;
+}
+
 
 ul li  {
   height: 2em;
