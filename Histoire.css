@@ -96,7 +96,11 @@ ul li  {
   float: left;  
   text-align: center; 
   list-style: none;  
-  font: normal bold 16px/1em Arial, Verdana,Helvetica;  
+  /*font: normal bold 16px/1em Arial, Verdana,Helvetica;*/
+  font-style: normal;
+  font-weight: bold;
+  font-family: Arial,Verdana,Helvetica;
+  font-size: 16px;
  }
 
 .saut{
