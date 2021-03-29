@@ -190,7 +190,7 @@ h1{
 	width:50%;
 	margin-left:auto;
 	margin-right:auto;
-	margin-bottom:5px;
+	margin-bottom:50px;
 }
 .trait2{
 	background-color: #000;
@@ -234,12 +234,12 @@ ul{
 	width:80%;
 	margin-left:10%;
 	margin-top:20px;
+	margin-bottom:100px;
 }
 
 #BasDePage{
 	position:relative;
 	bottom:0px;
 	width:100%;
-	height:40px;
 
 }

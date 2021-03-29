@@ -34,17 +34,22 @@ body{
 	position:absolute;
 	margin-left:20%;
 }
+
 #insta{
 	width:3%;
 	position:relative;
-	margin-left:71%;
+	margin-left:66%;
 }
 
 #fb{
 	width:3%;
-
 	position:relative;
 	margin-left:2%;
+}
+#Discord{
+	width:3%;
+	margin-left:2%;
+	position:relative;
 }
 
 #Logo{

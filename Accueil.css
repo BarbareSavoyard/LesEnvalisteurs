@@ -51,7 +51,7 @@ body{
 
 #Logo{
 	width:11%;
-	positionon:absolute;
+	position:absolute;
 	left:44%;
 	top:0.2%;
 	z-index:999;
