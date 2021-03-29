@@ -4,6 +4,7 @@ html{
 body{
   background-image:url("bg2.png");
   margin:0px;
+  background-size: cover;
 }
 
 /*  Partie du haut (Menu, logos, dessins)                                     */
