@@ -1,0 +1,146 @@
+html{
+	opacity:100%;
+}
+
+body{
+	background-image:url("bg2.png");
+	margin:0px;
+	background-size: cover;
+
+}
+
+/*  Partie du haut (Menu, logos, dessins)                                     */
+
+
+#Presentation{
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:5%;
+}
+
+#Presentation p{
+    width:auto;
+    text-align:left;
+    font: normal bold 1.5em Viking-Normal, Verdana,            Helvetica; 
+}
+
+#corps{
+	width:60%;
+	position:relative;
+	margin-top:100px;
+	margin-left:20%;
+	margin-right:20%;
+}
+
+h2{
+	text-align: center;
+	font-size: 2em;
+}
+
+h1{
+	text-align:center;
+	font: normal bold 30px/1em Viking-Normal,Arial, Verdana, Helvetica;  
+}
+
+.trait{
+	background-color: #000;
+	height:2px;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5px;
+	margin-top:40px;
+}
+.trait2{
+	background-color: #000;
+	height:4px;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5px;
+	margin-top: 10px;
+}
+
+.trait3{
+	background-color: #000;
+	height:50%;
+	width:4px;
+	position:absolute;
+	margin-left:50%;
+	margin-right:50%;
+	margin-bottom:5px;
+}
+#carte{
+	width: auto;
+	display : block;
+	margin-top: center;
+	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+#div_carte {
+	background-image: url("Carte.png");
+	height : 800px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-size: cover;
+	float: center;
+	position: relative;
+
+}
+
+ul#div_carte li#posannecy {
+	 position: absolute;
+	 top: 11%; left: 58%; width: 309px; height: 600px;
+	 scale : 10%;
+	 background-color: rgba(255,180,123,0.2);
+	 background-image: url("gps.png");
+	 background-size: cover;
+}
+
+img{
+     vertical-align: bottom;   
+}
+
+ul#etage2 li:hover {
+  background: rgba(255,180,123,0.5);
+}
+
+.videos{
+	width:120%;
+	height:400px;
+}
+#BasDePage{
+	position:relative;
+	width:100%;
+	margin:none;
+
+}
+
+.EnApproche{
+	width:100%;
+	height:600px;
+	background-color: black;
+	padding-top:30%;
+}
+
+iframe {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width:100%;
+  	height:600px;
+
+}
+
+.txtInc{
+	color:white;
+	font: normal bold 30px/1em Viking-Normal,Arial, Verdana, Helvetica;
+}
+
+#LogoB{
+	margin-left:28%;
+	margin-top:50px;
+}
